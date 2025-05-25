@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# PlatformIO build
+.pio
+
+# Clang
+.ccls
+
+# Miscellaneous
+.cache/
